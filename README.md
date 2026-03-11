@@ -1,11 +1,14 @@
 # Claude Copy
 
-A Claude Code plugin with 20 battle-tested direct-response copywriting skills, built on the Prometheus library.
+A Claude Code plugin with 23 battle-tested direct-response copywriting skills, built on the Prometheus library.
 
 ## Skills
 
 | Command | Description |
 |---------|-------------|
+| `/claude-copy:ad` | Write paid ad copy (Facebook, Instagram, YouTube, Google) using Alex Hormozi's Chunking system — 50 hooks, 10 frameworks, Kaleidoscope remixing |
+| `/claude-copy:webinar` | Write webinar scripts and sales presentations using Jason Fladlien's One to Many system — intro, content, Half-Dozen Yeses transition, staged close |
+| `/claude-copy:landing-page` | Write complete landing page copy — above-the-fold, full body, offer stack, CTA, trust elements, and P.S. with Awareness Ladder targeting |
 | `/claude-copy:beto` | Master orchestrator — analyzes your brief and builds a copy battle plan using the right skills in the right order |
 | `/claude-copy:research` | Automated niche research across Reddit, Amazon, YouTube, Meta Ads, and competitors to find exact audience language |
 | `/claude-copy:headline` | Write and evaluate headlines using frameworks from Ogilvy, Schwartz, Hopkins, Halbert, Kennedy, and Makepeace |
@@ -83,4 +86,9 @@ Built on the Prometheus copywriting library, drawing from:
 - Breakthrough Advertising (Gene Schwartz)
 - Big Black Book series
 - Quick-Start Copywriting System
+- $100M Playbook: GOATed Ads (Alex Hormozi)
+- ACQ Advertising Handbook (Alex Hormozi)
+- One to Many: The Secrets to Webinar Success (Jason Fladlien)
+- Landing Page Optimization (Tim Ash, Maura Ginty, Rich Page)
+- The Conversion Code (Chris Smith)
 - Principles from Ogilvy, Halbert, Kennedy, Makepeace, Bencivenga, Hopkins, and Schwab
