@@ -1,0 +1,24 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-copy",
+  "description": "23 direct-response copywriting skills for Claude Code — headlines, leads, offers, ads, webinars, landing pages, and more.",
+  "owner": {
+    "name": "Igor Oliveira"
+  },
+  "plugins": [
+    {
+      "name": "claude-copy",
+      "source": "./",
+      "description": "23 battle-tested copywriting skills built on the Prometheus library — Ogilvy, Schwartz, Halbert, Hopkins, Hormozi, Fladlien and more.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Igor Oliveira"
+      },
+      "homepage": "https://github.com/igoroliveirg/claude-copy",
+      "repository": "https://github.com/igoroliveirg/claude-copy",
+      "license": "MIT",
+      "keywords": ["copywriting", "marketing", "direct-response", "copy", "ads", "email", "landing-page"],
+      "category": "workflow"
+    }
+  ]
+}
