@@ -1,0 +1,8 @@
+{
+  "name": "claude-copy",
+  "description": "Prometheus copywriting skill library — 20 direct-response skills for headlines, leads, offers, email sequences, and more.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Prometheus AI"
+  }
+}
